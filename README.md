@@ -1,7 +1,7 @@
 <html>
 
 <body>
-<p> Welcome to AP's "An Actual Website," where this blog/site is devoted to spamming you with some Kdramas (slight cringe)! See below for more and Kdrama opinions </p>
+<p> Welcome to AP's "An Actual Website," where this blog/site is devoted to spamming you with some Kdramas (slight cringe)! See below for more and Kdrama opinions. </p>
  
 <h1> Recent Updates </h1>
 <p> Haven't got the opportunity to watch any of these yet, but they're on Netflix ;D ! Currently wishing for the day to binge watch :_( </p>
