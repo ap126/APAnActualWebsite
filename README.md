@@ -4,7 +4,7 @@
 <p> Haven't got the opportunity to watch any of these yet, but they're on Netflix ;D ! Currently wishing for the day to binge watch :_( </p>
 <p> Netflix features a YouTube channel with all their released Kdramas, called [The Swoon](https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ) </p>
 
-<h2> The School Nurse Files </h2>
+The School Nurse Files
 !(the-school-nurse-files-kdramadiary.jpg)
 <p> Released just recently! By watching the trailers and interview videos alone, I can tell that this is a creative + "cute" approach to Kdramas. The concept is very fresh! </p>
 
