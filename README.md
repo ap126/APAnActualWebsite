@@ -8,7 +8,7 @@
 <p> Netflix features a YouTube channel with all their released Kdramas, called [The Swoon](https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ) </p>
 
 <h2> The School Nurse Files </h2>
-(/assets/images/the-school-nurse-files-kdramadiary.jpg)
+(/assets/images/the-school-nurse-files-kdramadiary.jpg) 
 <p> Released just recently! By watching the trailers and interview videos alone, I can tell that this is a creative + "cute" approach to Kdramas. The concept is very fresh! </p>
 
 <h2> It's Okay to Not Be Okay </h2>
