@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/ap126/APAnActualWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<body>
+<p> Welcome to AP's "An Actual Website," where this blog/site is devoted to spamming you with some Kdramas (slight cringe)! See below for more and Kdrama opinions </p>
+ 
+<h1> Recent Updates </h1>
+<p> Haven't got the opportunity to watch any of these yet, but they're on Netflix ;D ! Currently wishing for the day to binge watch :_( </p>
+<p> Netflix features a YouTube channel with all their released Kdramas for Kdrama fans, called [The Swoon](https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ)! </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2> The School Nurse Files </h2>
+<p> Released just recently! By watching the trailers and interview videos alone, I can tell that this is a creative + "cute" approach to Kdramas. The concept is very fresh! </p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ap126/APAnActualWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2> It's Okay to Not Be Okay </h2>
+<p> IOTNBO (shortened name) has been attracting many viewers the past month via its interesting plot and the cryptic & girl-crush lead, Ko Moon-Young. My friends watched it and said it's pretty good :o </p>
