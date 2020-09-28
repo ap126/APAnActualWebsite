@@ -1,5 +1,3 @@
-<html>
-
 <body>
 <p> Welcome to AP's "An Actual Website," where this blog/site is devoted to spamming you with some Kdramas (slight cringe)! See below for more and Kdrama opinions. </p>
  
@@ -15,5 +13,3 @@
 !(IOTNBO.jpg)
 <p> IOTNBO (shortened name) has been attracting many viewers the past month via its interesting plot and the cryptic & girl-crush lead, Ko Moon-Young. My friends watched it and said it's pretty good :o </p>
 </body>
-
-</html>
