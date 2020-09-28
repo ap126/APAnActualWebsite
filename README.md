@@ -2,7 +2,7 @@
  
 <h1> Recent Updates </h1>
 Haven't got the opportunity to watch any of these yet, but they're on Netflix ;D ! Currently wishing for the day to binge watch :_( 
-Netflix features a YouTube channel with all their released Kdramas, called [The Swoon](https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ) 
+<p> Netflix features a YouTube channel with all their released Kdramas, called [The Swoon](https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ) </p>
 
 <h2> The School Nurse Files </h2>
 !(the-school-nurse-files-kdramadiary.jpg)
