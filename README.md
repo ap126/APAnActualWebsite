@@ -12,7 +12,7 @@
 <p> Released just recently! By watching the trailers and interview videos alone, I can tell that this is a creative + "cute" approach to Kdramas. The concept is very fresh! </p>
 
 <h2> It's Okay to Not Be Okay </h2>
-!(
+!(/assets/images/
 <p> IOTNBO (shortened name) has been attracting many viewers the past month via its interesting plot and the cryptic & girl-crush lead, Ko Moon-Young. My friends watched it and said it's pretty good :o </p>
 
 <
