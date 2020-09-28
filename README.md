@@ -14,13 +14,6 @@
 <h2> It's Okay to Not Be Okay </h2>
 ![IOTNBO](/assets/images/IOTNBO.jpg)
 <p> IOTNBO (shortened name) has been attracting many viewers the past month via its interesting plot and the cryptic & girl-crush lead, Ko Moon-Young. My friends watched it and said it's pretty good :o </p>
-
-<style>
-h1 {color: #e3ccfa;}
-h2 {color: #ebd5eb;}
-p  {color: black;}
-body {color: white;}
-</style>
 </body>
 
 </html>
